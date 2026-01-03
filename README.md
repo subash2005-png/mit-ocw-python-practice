@@ -1,4 +1,4 @@
-## MIT OCW Python Practice
+## MIT OCW Python:
 
 ### About This Repository
 
