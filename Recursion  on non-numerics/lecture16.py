@@ -27,7 +27,7 @@ def fibo_efficient(a):
 print(fibo_efficient(6))
 
 # for fibo(34), there are more than 10 million recursion takes place .
-# for fibo(34), there are only 65 recursion takes place .
+# for fibo_efficient(34), there are only 65 recursion takes place .
 
 # 2)Sum of elements in a list using recursion:
 
